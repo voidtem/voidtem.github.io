@@ -47,7 +47,8 @@ avatar:
   # img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
   # img: https://static.wikia.nocookie.net/starcraft/images/0/00/Serdath_SC2-LotV_Head1.jpg/revision/latest?cb=20191202220311 
   # img: /img/Serdath_SC2-LotV_Head1.webp
-  img: /img/DarkArchon_SC2-LotV_Portrait.webp
+  # img: /img/DarkArchon_SC2-LotV_Portrait.webp
+  img: /img/DarkArchon_SC2-LotV_Game1.webp
   effect: false
 
 # Disable all banner image
@@ -57,7 +58,15 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+# spear of adun
+# default_top_img: /img/X2lnd8N.jpg
+
+# starcraft2 fist movie 
+default_top_img: /img/1_style_v4_common_main_bg_v4.jpg
+# 
+# two images of Gantrithor 
+# default_top_img: /img/eHCrhFC.jpg
+# default_top_img: /img/Carrier_SCR_Art2.webp
 
 # The banner image of archive page
 archive_img:
@@ -644,10 +653,12 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: /img/X2lnd8N.jpg
+# background: '#49B202'
 
 # Footer Background
-footer_bg: false
+footer_bg: true 
+# img: url(https://voidtem.github.io/img/Carrier_SCR_Art2.webp)
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
@@ -720,7 +731,8 @@ clickShowText:
 
 # Default display mode (網站默認的顯示模式)
 # light (default) / dark
-display_mode: light
+# display_mode: light
+display_mode: dark
 
 # Beautify (美化頁面顯示)
 beautify:
