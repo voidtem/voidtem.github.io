@@ -40,7 +40,8 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+# favicon: /img/favicon.png
+favicon: /img/Archon_SC2_Head2.webp
 
 # Avatar (頭像)
 avatar:
@@ -98,8 +99,11 @@ cover:
   # left/right/both
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
-  default_cover:
+  # default_cover:
     # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+  default_cover:
+    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
