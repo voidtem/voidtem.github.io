@@ -56,11 +56,11 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: /img/X2lnd8N.jpg
 
 # If the banner of page not setting, it will show the top_img
 # spear of adun
-# default_top_img: /img/X2lnd8N.jpg
+# default_top_img: 
 
 # starcraft2 fist movie 
 #default_top_img: /img/1_style_v4_common_main_bg_v4.jpg
@@ -321,7 +321,8 @@ translate:
   # The text of the button when the language is Simplified Chinese
   msgToTraditionalChinese: '繁'
   # The text of the button when the language is Traditional Chinese
-  msgToSimplifiedChinese: '簡'
+  # msgToSimplifiedChinese: '簡'
+  msgToSimplifiedChinese: '繁'
 
 # Read Mode (閲讀模式)
 readmode: true
@@ -621,7 +622,7 @@ site_verification:
 # Notice: color value must in double quotes like "#000" or may cause error!
 
 # theme_color:
-#   enable: true
+#  enable: true
 #   main: "#49B1F5"
 #   paginator: "#00c4b6"
 #   button_hover: "#FF7242"
@@ -631,7 +632,7 @@ site_verification:
 #   hr_color: "#A4D8FA"
 #   code_foreground: "#F47466"
 #   code_background: "rgba(27, 31, 35, .05)"
-#   toc_color: "#00c4b6"
+#  toc_color: "000000"
 #   blockquote_padding_color: "#49b1f5"
 #   blockquote_background_color: "#49b1f5"
 #   scrollbar_color: "#49b1f5"
@@ -657,7 +658,7 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: /img/X2lnd8N.jpg
+background: url(voidtem.github.io/img/1_style_v4_common_main_bg_v4.jpg)
 # background: '#49B202'
 
 # Footer Background
@@ -666,8 +667,9 @@ footer_bg: true
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
-  header: true
-  footer: true
+  # header: true
+  header: false
+  footer: false
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside_bottom:
@@ -930,6 +932,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/customize1.css">
   bottom:
     # - <script src="xxxx"></script>
 
