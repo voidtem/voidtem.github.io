@@ -1,5 +1,6 @@
 #page-header {
     --mark-bg: auto;
+    opacity: 0.8;
 }
 
 #web_bg {
@@ -22,4 +23,8 @@
 
 #aside-content .card-widget {
     background-color: rgba(0,0,0,0.2);
+}
+
+#aside-content .aside-list > .aside-list-item img {
+    opacity: 0.6;
 }
