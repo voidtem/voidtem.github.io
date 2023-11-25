@@ -4,10 +4,6 @@
 }
 
 #web_bg {
-    /* background-image: url(https://voidtem.github.io/img/1_style_v4_common_main_bg_v4.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;*/
 }
 #web_bg:before {
     background-color: rgba(0,0,0,0) !important;
