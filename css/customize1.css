@@ -15,3 +15,7 @@ body .voidtem_github_io #web_bg:before {
 #recent-posts > .recent-post-item {
     background-color: rgba(0,0,0,0.2);
 }
+
+#aside-content .card-widget {
+    background-color: rgba(0,0,0,0.2);
+}
