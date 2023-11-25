@@ -8,7 +8,7 @@
     background-attachment: fixed;
     background-size: cover;*/
 }
-body .voidtem_github_io #web_bg:before {
+#web_bg:before {
     background-color: rgba(0,0,0,0) !important;
 }
 
