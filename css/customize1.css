@@ -12,3 +12,7 @@
 #web_bg:before {
     background-color: rgba(0,0,0,0);
 }
+
+#recent-posts > .recent-post-item {
+    background-color: rgba(0,0,0,0.2);
+}
