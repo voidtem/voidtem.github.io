@@ -16,6 +16,10 @@
     background-color: rgba(0,0,0,0.2);
 }
 
+#recent-posts > .recent-post-item .post-bg{
+    opacity: 0.6;
+}
+
 #aside-content .card-widget {
     background-color: rgba(0,0,0,0.2);
 }
