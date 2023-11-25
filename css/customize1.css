@@ -8,9 +8,8 @@
     background-attachment: fixed;
     background-size: cover;*/
 }
-
-#web_bg:before {
-    background-color: rgba(0,0,0,0);
+body .voidtem_github_io #web_bg:before {
+    background-color: rgba(0,0,0,0) important;
 }
 
 #recent-posts > .recent-post-item {
