@@ -9,7 +9,7 @@
     background-size: cover;*/
 }
 body .voidtem_github_io #web_bg:before {
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(0,0,0,0) !important;
 }
 
 #recent-posts > .recent-post-item {
