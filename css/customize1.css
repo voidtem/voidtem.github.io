@@ -24,3 +24,6 @@
 #aside-content .aside-list > .aside-list-item img {
     opacity: 0.6;
 }
+#aside-content .card-widget .avatar-img img{
+    opacity:0.8
+}
