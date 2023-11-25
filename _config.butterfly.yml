@@ -41,7 +41,7 @@ social:
 
 # Favicon（網站圖標）
 # favicon: /img/favicon.png
-favicon: /img/Archon_SC2_Head2.webp
+favicon: /img/Battlecruiser_SC2_Icon2.webp
 
 # Avatar (頭像)
 avatar:
@@ -63,11 +63,11 @@ index_img:
 # default_top_img: /img/X2lnd8N.jpg
 
 # starcraft2 fist movie 
-default_top_img: /img/1_style_v4_common_main_bg_v4.jpg
+#default_top_img: /img/1_style_v4_common_main_bg_v4.jpg
 # 
 # two images of Gantrithor 
 # default_top_img: /img/eHCrhFC.jpg
-# default_top_img: /img/Carrier_SCR_Art2.webp
+default_top_img: /img/Carrier_SCR_Art2.webp
 
 # The banner image of archive page
 archive_img:
@@ -102,7 +102,7 @@ cover:
   # default_cover:
     # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
   default_cover:
-    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://file.crazywong.com/gh/jerryc127/CDN/img/material-2.png
 
 
 # Replace Broken Images (替換無法顯示的圖片)
