@@ -1,10 +1,26 @@
 #page-header {
     --mark-bg: auto;
+    opacity: 0.8;
 }
 
 #web_bg {
-    /* background-image: url(https://voidtem.github.io/img/1_style_v4_common_main_bg_v4.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;*/
+}
+#web_bg:before {
+    background-color: rgba(0,0,0,0) !important;
+}
+
+#recent-posts > .recent-post-item {
+    background-color: rgba(0,0,0,0.2);
+}
+
+#recent-posts > .recent-post-item .post-bg{
+    opacity: 0.6;
+}
+
+#aside-content .card-widget {
+    background-color: rgba(0,0,0,0.2);
+}
+
+#aside-content .aside-list > .aside-list-item img {
+    opacity: 0.6;
 }
