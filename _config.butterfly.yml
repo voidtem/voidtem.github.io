@@ -40,8 +40,8 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
-# favicon: /img/Battlecruiser_SC2_Icon2.webp
+# favicon: /img/favicon.png
+favicon: /img/Battlecruiser_SC2_Icon2.webp
 
 # Avatar (頭像)
 avatar:
@@ -57,7 +57,8 @@ disable_top_img: false
 
 # The banner image of home page
 # index_img: /img/X2lnd8N.jpg
-index_img: /img/Carrier_SCR_Art2.webp
+# index_img: /img/Carrier_SCR_Art2.webp
+index_img: /img/1_style_v4_common_main_bg_v4.jpg
 
 # If the banner of page not setting, it will show the top_img
 # spear of adun
