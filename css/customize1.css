@@ -24,6 +24,9 @@
 #aside-content .aside-list > .aside-list-item img {
     opacity: 0.6;
 }
+#aside-content .aside-list > .aside-list-item img:hover {
+    opacity: 1;
+}
 
 #aside-content .card-widget .avatar-img img{
     opacity:0.8
@@ -34,4 +37,18 @@
 
 #footer {
     opacity: 0.8;
+}
+
+#aside-content .card-info #card-info-btn {
+    background-image: url(../img/PsionicStorm_SCR_Rend1.webp);
+    background-color: transparent;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    opacity: 0.8;
+}
+#aside-content .card-info #card-info-btn:hover {
+    background-color: transparent;
+    opacity: 1;
 }
