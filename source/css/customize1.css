@@ -24,12 +24,12 @@
 #aside-content .aside-list > .aside-list-item img {
     opacity: 0.6;
 }
-#aside-content .aside-list > .aside-list-item img:hover {
-    opacity: 1;
-}
 
 #aside-content .card-widget .avatar-img img{
     opacity:0.8
+}
+#aside-content .card-widget .avatar-img img:hover {
+    opacity: 1;
 }
 
 #footer {
