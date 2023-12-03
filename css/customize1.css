@@ -4,6 +4,12 @@
 }
 
 #web_bg {
+    position: fixed;
+    z-index: -999;
+    width: 100%;
+    height: 100%;
+    background: url(../img/bg.gif);
+    background-repeat: repeat;
 }
 #web_bg:before {
     background-color: rgba(0,0,0,0) !important;
@@ -37,6 +43,7 @@
 
 #footer {
     opacity: 0.8;
+    background-position: 0px -1294px;
 }
 
 #aside-content .card-info #card-info-btn {
@@ -51,4 +58,5 @@
 #aside-content .card-info #card-info-btn:hover {
     background-color: transparent;
     opacity: 1;
+    color: #FE8A0E;
 }
