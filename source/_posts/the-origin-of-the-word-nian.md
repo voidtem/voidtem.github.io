@@ -2,7 +2,7 @@
 title: the origin of the word nian
 date: 2023-11-25 19:13:36
 tags:
-cover: https://voidtem.github.io/img/ArticleAvatar/EliteMarine_LotV_Head1.webp
+cover: ../img/ArticleAvatar/EliteMarine_LotV_Head1.webp
 ---
 
 隨著年齡增長，越來越感覺，所有的所謂的“自古以來”都是放屁。
