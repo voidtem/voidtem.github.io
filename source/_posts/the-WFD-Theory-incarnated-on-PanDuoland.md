@@ -5,4 +5,4 @@ tags:
 cover: ../img/archon-starcraft2.gif
 ---
 
-其實PanDuoland的成功就是WFD Theory在殘國的初步體現。
+其實PanDuoland的成功就是WFD Theory在殘地區域的初步體現。
