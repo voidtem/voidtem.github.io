@@ -2,7 +2,7 @@
 title: what is the real name of these thirty years
 date: 2024-02-12 02:41:35
 tags:
-cover: /img/starcraft-battleship1.jpg
+cover: /img/starcraft-battleship1.jpeg
 ---
 
 其實那30年，本質就是給一個叛徒改邪歸正的時間。
