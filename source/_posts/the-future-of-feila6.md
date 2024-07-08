@@ -2,7 +2,7 @@
 title: the future of feila6
 date: 2024-01-07 02:33:37
 tags:
-cover: ../img/ArticleAvatar/EliteMarine_LotV_Head1.webp
+cover: /img/ArticleAvatar/EliteMarine_LotV_Head1.webp
 ---
 
 有一個理論非常非常的有趣，也很好玩。

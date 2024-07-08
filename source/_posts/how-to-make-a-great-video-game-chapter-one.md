@@ -2,7 +2,7 @@
 title: how to make a great video game chapter one
 date: 2024-01-07 00:29:27
 tags:
-cover: img/starcraft-battleship-3.jpeg
+cover: /img/starcraft-battleship-3.jpeg
 ---
 
 Let's discuss how to make a great video game.

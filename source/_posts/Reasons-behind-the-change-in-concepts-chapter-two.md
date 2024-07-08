@@ -2,7 +2,7 @@
 title: Reasons behind the change in concepts chapter two
 date: 2024-01-07 20:20:15
 tags:
-cover: img/3226311.jpeg
+cover: /img/3226311.jpeg
 ---
 
 承接上篇，其實回頭看過去，我是極為幸運的，而這些是過去年齡小的時候所感受不到的。

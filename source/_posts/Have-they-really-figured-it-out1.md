@@ -2,7 +2,7 @@
 title: Have they really figured it out1
 date: 2024-01-08 00:30:46
 tags:
-cover: img/burj-khalifa-nick-merrick-02.jpeg
+cover: /img/burj-khalifa-nick-merrick-02.jpeg
 ---
 
 很多人會把環境帶來的改變和收益歸咎於自己的能力。

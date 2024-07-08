@@ -2,7 +2,7 @@
 title: maybe the true meaning of rising in the east and falling in the west
 date: 2024-02-12 02:44:44
 tags:
-cover: img/evangelion01.webp
+cover: /img/evangelion01.webp
 ---
 
 東A、東北A、東南A終將歸屬妳紅，所謂的 rising in the east and falling in the west，

@@ -2,7 +2,7 @@
 title: the fuck feila's opionion about their war and why they are wrong
 date: 2024-01-10 02:22:56
 tags:
-cover: img/pacificwar1.jpeg
+cover: /img/pacificwar1.jpeg
 ---
 
 對於蠶人來說，有個特別搞笑的點就是，這群傻逼真的會把酣展當作所謂立殘地之展，一群傻逼，哈哈哈。

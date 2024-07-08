@@ -2,7 +2,7 @@
 title: Reasons behind the change in concepts chapter three
 date: 2024-01-07 21:35:37
 tags:
-cover: img/evangelion01.webp
+cover: /img/evangelion01.webp
 ---
 
 不得不說，有一句話有一個理論說的實在是太好了， 俄羅斯人民人品不好，上帝怪罪於沙皇，去掉了沙皇，給予人民Soviet Union，人民得到了自己想要的還不如沙皇時期的結局.

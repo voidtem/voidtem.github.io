@@ -2,7 +2,7 @@
 title: the future of feila 1
 date: 2023-12-04 02:59:35
 tags:
-cover: ../img/5052339-20.gif
+cover: /img/5052339-20.gif
 ---
 
 蠶人熱衷於造這個大東西遭那個大事務。

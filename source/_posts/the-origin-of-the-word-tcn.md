@@ -2,7 +2,7 @@
 title: the origin of the word tcn
 date: 2023-11-25 19:41:55
 tags:
-cover: ../img/ArticleAvatar/Marine_SC2_Head5.webp
+cover: /img/ArticleAvatar/Marine_SC2_Head5.webp
 ---
 
 也是自己過去學習不刻苦深度不夠，浪費了太多的時間，很多認知中的概念都沈浸在別人或者自己編織的落網裏。

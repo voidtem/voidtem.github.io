@@ -2,7 +2,7 @@
 title: Reasons behind the change in concepts chapter one
 date: 2024-01-07 15:16:38
 tags:
-cover: img/1920x1080-582634-doraemon.jpg
+cover: /img/1920x1080-582634-doraemon.jpg
 ---
 
 觀念的變遷。

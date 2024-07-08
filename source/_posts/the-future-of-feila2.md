@@ -2,7 +2,7 @@
 title: the future of feila2
 date: 2023-12-06 03:08:07
 tags:
-cover: ../img/reaver1.gif
+cover: /img/reaver1.gif
 ---
 
 突然想到，這幾十年得勢的一些蠶人，例如llj，wf，zzd，等等等等。
