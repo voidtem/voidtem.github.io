@@ -2,7 +2,7 @@
 title: the future of feila5
 date: 2024-01-06 23:58:51
 tags:
-cover: /img/starcraft-battleship2.jpg
+cover: /img/starcraft-battleship2.jpeg
 ---
 
 偶然看到一個形容僭主非常有趣但是非常有道理同時又非常讓人深思在深思後又有一些懷疑的理論。

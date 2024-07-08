@@ -2,7 +2,7 @@
 title: the future of feila4
 date: 2023-12-18 01:50:37
 tags:
-cover: /img/starcraft-battleship1.jpg
+cover: /img/starcraft-battleship1.jpeg
 ---
 
 還有一種蛆粉。

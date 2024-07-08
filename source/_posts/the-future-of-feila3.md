@@ -2,7 +2,7 @@
 title: the future of feila3
 date: 2023-12-17 22:04:03
 tags:
-cover: /img/starcraft-battleship4.jpg
+cover: /img/starcraft-battleship4.jpeg
 ---
 
 蛆粉的幻覺很多。

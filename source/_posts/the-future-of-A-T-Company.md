@@ -2,7 +2,7 @@
 title: the future of A&T Company
 date: 2023-12-04 03:33:35
 tags:
-cover: /img/starcraft_protoss.jpg
+cover: /img/starcraft_protoss.jpeg
 ---
 
 A和T所做的事情，就是破壞曾經誕生自己以及保護自己的土壤，他們的成功就是自己的滅亡，他們的一切工作的本質都相當於是在自掘墳墓。

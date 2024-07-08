@@ -2,7 +2,7 @@
 title: the future of Asia Section 2
 date: 2023-12-02 20:24:28
 tags:
-cover: /img/eHCrhFC.jpg
+cover: /img/eHCrhFC.jpeg
 ---
 
 很久很久很久很久很久以前，曾經有一位外國的歷史學者寫道 —— “Vietnam is one of the most successful countries in history in resisting Simple-country invasion"。
