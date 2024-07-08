@@ -2,7 +2,7 @@
 title: what is the most precious things for a country1
 date: 2024-02-12 02:30:48
 tags:
-cover: /img/starcraft-battleship2.jpg
+cover: /img/starcraft-battleship2.jpeg
 ---
 
 對一個country，一個nation來說，最寶貴的是什麼呢？
