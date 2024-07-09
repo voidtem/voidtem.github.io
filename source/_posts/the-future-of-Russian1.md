@@ -2,7 +2,7 @@
 title: the future of Russian1
 date: 2023-12-09 17:55:52
 tags:
-cover: /img/old-temple.gif
+cover: https://voidtem.github.io/img/old-temple.gif
 ---
 
 廢皺童盟已經建立，而茅子就是他們這個廢舊童萌中矮子裏面拔高個所選出的那個最能打的，然後他們期望它在2022年2月24日動手，而這個茅子也如他們所願執行了計劃。

@@ -2,7 +2,7 @@
 title: the future of Asia Section 1
 date: 2023-11-27 00:22:31
 tags:
-cover: /img/ArticleAvatar/Archon_SC2_Head1.webp
+cover: https://voidtem.github.io/img/ArticleAvatar/Archon_SC2_Head1.webp
 ---
 
 疫情前在亞洲的旅行，對當地的認知還是相對淺薄，僅僅是玩耍為主。

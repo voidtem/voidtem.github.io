@@ -2,7 +2,7 @@
 title: is Elon Musk said right1
 date: 2023-12-16 23:12:00
 tags:
-cover: /img/ArticleAvatar/DarkTemplar_SCR_HeadAnim.webp
+cover: https://voidtem.github.io/img/ArticleAvatar/DarkTemplar_SCR_HeadAnim.webp
 ---
 
 Elon Musk說的就對嗎？

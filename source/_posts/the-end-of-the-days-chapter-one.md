@@ -2,7 +2,7 @@
 title: the end of the days chapter one
 date: 2024-01-06 23:23:04
 tags:
-cover: /img/protprev.jpeg
+cover: https://voidtem.github.io/img/protprev.jpeg
 ---
 
 曾經和一位蛆粉溝通過。

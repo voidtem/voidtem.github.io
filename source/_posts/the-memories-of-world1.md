@@ -2,7 +2,7 @@
 title: the memories of world1
 date: 2023-12-09 18:54:58
 tags:
-cover: /img/ArticleAvatar/hightemplar1.gif
+cover: https://voidtem.github.io/img/ArticleAvatar/hightemplar1.gif
 ---
 
 經常聽到一些人逼逼“陽光之下無新事”，以此來論證，人類一次又一次的犯相同的錯誤，以及人類必然會一次又一次的犯相同的錯誤。
