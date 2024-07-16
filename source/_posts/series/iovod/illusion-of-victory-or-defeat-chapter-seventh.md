@@ -1,5 +1,5 @@
 ---
-title: illusion of victory or defeat chapter sixth
+title: illusion of victory or defeat chapter seventh
 date: 2024-07-17 02:27:26
 tags:
 cover: https://voidtem.github.io/img/protprev.jpeg
