@@ -5,7 +5,7 @@ tags:
 cover: https://voidtem.github.io/img/protprev.jpeg
 ---
 
-勝負錯覺
+### 勝負錯覺
 
 很多蠶人真的相信殘地的那些傻逼slogan，真是笑死我了。
 

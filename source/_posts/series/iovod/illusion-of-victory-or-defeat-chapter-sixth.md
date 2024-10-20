@@ -5,7 +5,7 @@ tags:
 cover: https://voidtem.github.io/img/protprev.jpeg
 ---
 
-勝負錯覺
+### 勝負錯覺
 
 未來的實際情況是。
 
